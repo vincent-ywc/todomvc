@@ -6,7 +6,7 @@
     "todomvc-app-css": "^2.0.0",
     "todomvc-common": "^1.0.0"
   },
-  "name": "todomvc-app-template",
+  "name": "todomvc-app-template-master",
   "description": "> Template used for creating [TodoMVC](http://todomvc.com) apps",
   "version": "1.0.0",
   "main": "index.js",
